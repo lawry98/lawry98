@@ -5,8 +5,7 @@
 I build production web applications and backend services across commerce, financial services, and AI products, from system and API design through testing and release ownership.
 
 📍 Plano, TX · open to relocation
-💼 [LinkedIn](https://linkedin.com/in/lawrence-james-crasto) · ✉️ [lawry982@gmail.com](mailto:lawry982@gmail.com)
-<!-- TODO: add once the portfolio is live:  · 🌐 [Portfolio](PORTFOLIO_URL) -->
+🌐 [Portfolio](https://claude.ai/artifact/8tDNd19uH86iykUKtKZzrs) · 💼 [LinkedIn](https://linkedin.com/in/lawrence-james-crasto) · ✉️ [lawry982@gmail.com](mailto:lawry982@gmail.com)
 
 ---
 
@@ -46,8 +45,8 @@ I build production web applications and backend services across commerce, financ
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🔍 **AI-Powered Code Review Tool** | Flags coding-standard, security, and performance issues across 10+ languages, with auth and saved review history | Next.js, OpenAI API, Supabase |
-| 🏎️ **F1 Race Briefing** | Generates race briefings end-to-end through a LangGraph agent pipeline | Next.js, Python, FastAPI, LangGraph |
+| 🔍 **[AI-Powered Code Review Tool](https://github.com/lawry98/codereview-ai)** | Flags coding-standard, security, and performance issues across 10+ languages, with auth and saved review history | Next.js, OpenAI API, Supabase |
+| 🏎️ **[F1 Race Briefing](https://github.com/lawry98/f1-application)** | Generates race briefings end-to-end through a LangGraph agent pipeline | Next.js, Python, FastAPI, LangGraph |
 
 ## 🏆 Achievements
 
@@ -57,4 +56,4 @@ I build production web applications and backend services across commerce, financ
 
 ## 🤝 Let's connect
 
-Open to full stack and backend roles. The best way to reach me is [email](mailto:lawry982@gmail.com) or [LinkedIn](https://linkedin.com/in/lawrence-james-crasto).
+Open to full stack and backend roles. The best way to reach me is [email](mailto:lawry982@gmail.com) or [LinkedIn](https://linkedin.com/in/lawrence-james-crasto), and you can see more of my work on my [portfolio](https://claude.ai/artifact/8tDNd19uH86iykUKtKZzrs).
