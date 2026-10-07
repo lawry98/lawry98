@@ -4,7 +4,7 @@
 
 I build production web applications and backend services across commerce, financial services, and AI products, from system and API design through testing and release ownership.
 
-📍 Portland, ME · open to relocation
+📍 Plano, TX · open to relocation
 💼 [LinkedIn](https://linkedin.com/in/lawrence-james-crasto) · ✉️ [lawry982@gmail.com](mailto:lawry982@gmail.com)
 <!-- TODO: add once the portfolio is live:  · 🌐 [Portfolio](PORTFOLIO_URL) -->
 
