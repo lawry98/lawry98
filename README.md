@@ -5,7 +5,7 @@
 I build production web applications and backend services across commerce, financial services, and AI products, from system and API design through testing and release ownership.
 
 📍 Plano, TX · open to relocation
-🌐 [Portfolio](https://claude.ai/artifact/8tDNd19uH86iykUKtKZzrs) · 💼 [LinkedIn](https://linkedin.com/in/lawrence-james-crasto) · ✉️ [lawry982@gmail.com](mailto:lawry982@gmail.com)
+🌐 [Portfolio](https://lawrencecrasto.com) · 💼 [LinkedIn](https://linkedin.com/in/lawrence-james-crasto) · ✉️ [lawry982@gmail.com](mailto:lawry982@gmail.com)
 
 ---
 
